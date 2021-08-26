@@ -1,0 +1,73 @@
+body{
+  margin-top: 20px;
+  background: transparent;
+}
+.centered {
+  margin: 0px auto;
+  text-align: center;
+}
+h1{
+  color: #37352F;
+  font-size: 45px;
+  font-family: Open Sans;
+}
+#time{
+  color: #37352F;
+  font-family: Open Sans;
+  font-size: 100px;
+}
+#preset{
+  width: 100px;
+}
+.well{
+  background:transparent;
+  padding: 0px;
+  width: 50px;
+}
+#settings{
+  color: #37352F;
+  font-family: Open Sans;
+  font-size: 24px;
+/*   background-color: blue; */
+  width: 150px;
+  height: 110px;
+}
+.btn-primary {
+  color: #37352F;
+  background: #EAE4F2;
+  border: #EAE4F2
+}
+.btn-primary:hover {
+  color: #37352F;
+  background: #dbd6e3;
+  border: #dbd6e3
+}
+.btn-danger {
+  color: #37352F;
+  background: #fbf3db;
+  border: #fbf3db;
+}
+.btn-danger:hover {
+  color: #37352F;
+  background: #ebe4cd;
+  border: #ebe4cd;
+}
+#break-well{
+  margin: 0px 15px 0px 15px;
+}
+#session-well{
+  margin-bottom:0px;
+}
+.des{
+    margin: 0px auto;
+  text-align: center;
+}
+.descrp{
+  display:inline;
+  margin-right: 12px;
+   margin-left: 12px;
+  color: white;
+}
+#info{
+  margin-top: 20px;
+}
